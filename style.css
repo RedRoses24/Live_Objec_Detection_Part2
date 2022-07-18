@@ -1,0 +1,105 @@
+body{
+    background-size: cover;
+}
+.column{
+    height: 500px;
+    width: 400px;
+    background-color:rgb(199, 231, 243);
+    margin-left: 650px;
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px #13F4EF;
+}
+#heading1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    text-shadow: 2px 2px 2px #4D4dFF;
+}
+hr{
+    color: black;
+}
+label{
+    margin-left: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px #78EAFF;
+}
+#btn_living_room{
+    width: 300px;
+    margin-left: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #47E3FF;
+    color: black;
+}
+#btn_kitchen{
+    width: 300px;
+    margin-left: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #01FFC3;
+    color: black;
+    margin-top: 20px;
+}
+#btn_bed_room{
+    width: 300px;
+    margin-left: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #FFB3FD;
+    color: black;
+    margin-top: 20px;
+}
+#btn_guest_room{
+    width: 300px;
+    margin-left: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #9D72FF;
+    color: black;
+    margin-top: 20px;
+}
+#book_room{
+    width: 300px;
+    margin-left: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #47E3FF;
+    color: black;
+    margin-top: 20px;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:lightblue;
+    color: black;
+    text-align: center;
+ }
+ #body2 canvas{
+    margin-top: 48px;
+ }
+ canvas{
+    border-radius: 20px;
+    border: 2px black;
+    margin-top: 60px;
+ }
+ #btn_back{
+    margin-top: 50px;
+ }
